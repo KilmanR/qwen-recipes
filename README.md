@@ -6,8 +6,8 @@
 
 | Раздел | Файл | Статус |
 |---|---|---|
-| Супы | [recipes/soup.md](recipes/soup.md) | ✅ есть рецепт |
-| Салаты | [recipes/salad.md](recipes/salad.md) | ✅ есть рецепт |
+| Супы | [recipes/asian-chicken-soup.md](recipes/asian-chicken-soup.md) | ✅ есть рецепт |
+| Салаты | [recipes/seaweed-salad.md](recipes/seaweed-salad.md) | ✅ есть рецепт |
 
 <!--
 Пустые разделы скрыты до заполнения. По мере добавления рецепта
