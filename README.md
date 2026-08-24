@@ -7,12 +7,12 @@
 | Раздел | Файл | Статус |
 |---|---|---|
 | Супы | [recipes/soup.md](recipes/soup.md) | ✅ есть рецепт |
+| Салаты | [recipes/salad.md](recipes/salad.md) | ✅ есть рецепт |
 
 <!--
 Пустые разделы скрыты до заполнения. По мере добавления рецепта
 переносим строку в таблицу выше и меняем статус на ✅.
 
-| Салаты | [recipes/salad.md](recipes/salad.md) | ⏳ пусто |
 | Закуски | [recipes/appetizer.md](recipes/appetizer.md) | ⏳ пусто |
 | Основные блюда | [recipes/main-course.md](recipes/main-course.md) | ⏳ пусто |
 | Гарниры | [recipes/side-dish.md](recipes/side-dish.md) | ⏳ пусто |
