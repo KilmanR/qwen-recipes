@@ -9,6 +9,7 @@
 | Супы | [recipes/asian-chicken-soup.md](recipes/asian-chicken-soup.md) | ✅ есть рецепт |
 | Салаты | [recipes/seaweed-salad.md](recipes/seaweed-salad.md) | ✅ есть рецепт |
 | Основные блюда | [recipes/main-course.md](recipes/main-course.md) | ✅ есть рецепт |
+| Китайские ингредиенты | [recipes/asian-ingredients.md](recipes/asian-ingredients.md) | ✅ есть рецепт |
 
 <!--
 Пустые разделы скрыты до заполнения. По мере добавления рецепта
